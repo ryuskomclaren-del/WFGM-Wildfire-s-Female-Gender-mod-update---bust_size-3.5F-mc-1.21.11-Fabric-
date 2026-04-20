@@ -19,3 +19,13 @@ Have a nice game!
 <img width="717" height="227" alt="image" src="https://github.com/user-attachments/assets/73f6a5a1-ec7f-45ca-8431-4cd6a53df40f" />
 
 Checked by www.virustotal.com
+
+<img width="515" height="411" alt="image" src="https://github.com/user-attachments/assets/6614ea4f-7e06-49e4-9cd5-cb35830a2e50" />
+
+
+<img width="358" height="497" alt="image" src="https://github.com/user-attachments/assets/c966848e-88f6-4d9f-ae61-10fe6f79bb01" />
+
+
+
+
+
