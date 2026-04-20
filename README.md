@@ -16,10 +16,6 @@ Have a nice game!
 4. **(Important!)** Before the first launch, delete the old configuration file.
 
    
-<img width="717" height="227" alt="image" src="https://github.com/user-attachments/assets/73f6a5a1-ec7f-45ca-8431-4cd6a53df40f" />
-
-Checked by www.virustotal.com
-
 <img width="608" height="372" alt="image" src="https://github.com/user-attachments/assets/dee66a97-6c6c-4546-a5ad-6c0787dace91" />
 
 
