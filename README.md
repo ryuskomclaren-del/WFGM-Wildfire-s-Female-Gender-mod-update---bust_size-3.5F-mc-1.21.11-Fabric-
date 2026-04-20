@@ -36,7 +36,7 @@ The reason why you should use no more than 250% of the bust size: 
 
 ✅ The modification code is completely clean.
 
-Author of the original modification: Mc - ##@WildfireFGM
+Author of the original modification: Mc - ## @WildfireFGM
 
 
 
