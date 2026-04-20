@@ -1,5 +1,5 @@
 For a better experience using the edited mod, it is recommended not to set bust sizes above 250%. 
-For the mod to work correctly, Fabric API mc 1.21.11 - 0.140.0 is required, otherwise the mod may not work or may crash the game.
+For the mod to work correctly, Fabric API mc 1.21.11 - 0.140.0 or highter is required, otherwise the mod may not work or may crash the game.
 
 !WARNING!
 
@@ -10,7 +10,7 @@ Have a nice game!
 ✨ Made with persistence by HEX-redactor **ryuskomclaren-del**
 
 ## 📥 Installation
-1. Make sure you have **Fabric API version 0.140.0** for Minecraft 1.21.11 installed.
+1. Make sure you have **Fabric API version 0.140.0 or highter** for Minecraft 1.21.11 installed.
 2. Download the `.jar` file from this repository.
 3. Place it in the `.minecraft/mods` folder.
 4. **(Important!)** Before the first launch, delete the old configuration file.
