@@ -3,7 +3,7 @@ For the mod to work correctly, Fabric API mc 1.21.11 - 0.140.0 is required, othe
 
 !WARNING!
 
-The mod is not an addon to the original WFGM, it is a full edited and standalone modification that does not require third-party addons.
+The mod is not an addon to the original WFGM, it is a standalone modification that does not require third-party addons.
 
 Have a nice game!
 
