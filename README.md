@@ -27,6 +27,16 @@ Checked by www.virustotal.com
 <img width="358" height="497" alt="image" src="https://github.com/user-attachments/assets/c966848e-88f6-4d9f-ae61-10fe6f79bb01" />
 
 
+The reason why you should use no more than 250% of the bust size: 
+
+250% is the physical maximum of the bust model; setting it to higher values may cause the breasts to start breaking.
+
+⚙️ The HEX code of the modification only 
+    included the change of the maximum bust size value.
+
+✅ The modification code is completely clean.
+
+Author of the original modification: Mc - ##@WildfireFGM
 
 
 
